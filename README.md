@@ -2,6 +2,10 @@
 développer une application qui lui permette de gérer ses commandes clients. L'application devrait permettre d'ajouter de nouvelles commandes, de visualiser l'état d'avancement des commandes en cours, et de marquer les commandes comme complètes une fois qu'elles sont traitées.
 
 
+
+https://github.com/yassinjouao/CraftStore/assets/44931090/2f0de341-1dbd-45d3-a80e-dd8ab9382f77
+
+
 ## technologie utilisée.
 ```diff
 + Langage de Programmation : Java
