@@ -1,5 +1,7 @@
 # CraftStore
-développer une application qui lui permette de gérer ses commandes clients. L'application devrait permettre d'ajouter de nouvelles commandes, de visualiser l'état d'avancement des commandes en cours, et de marquer les commandes comme complètes une fois qu'elles sont traitées.
+This application allows you to manage customer orders, products, and clients. It provides the ability to add new orders, track the progress of ongoing orders, and mark orders as complete once they are processed.
+
+Cette application permet de gérer les commandes clients, les produits et les clients. Elle offre la possibilité d'ajouter de nouvelles commandes, de suivre l'état d'avancement des commandes en cours et de marquer les commandes comme complètes une fois qu'elles sont traitées.
 
 https://github.com/yassinjouao/CraftStore/assets/44931090/2f0de341-1dbd-45d3-a80e-dd8ab9382f77
 
