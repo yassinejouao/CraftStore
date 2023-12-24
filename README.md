@@ -13,7 +13,7 @@ Cette application permet de gérer les commandes clients, les produits et les cl
 https://github.com/yassinjouao/CraftStore/assets/44931090/93d5a5b4-822f-427d-88b1-fe6617ea85b9
 
 ## Diagramme de classes
-![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/wDUB3X.png)
+![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/psJDr0.png)
 
 ## Diagramme de cas d'utilisation
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/3HZogx.png)
