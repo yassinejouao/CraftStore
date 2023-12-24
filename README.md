@@ -2,11 +2,11 @@
 développer une application qui lui permette de gérer ses commandes clients. L'application devrait permettre d'ajouter de nouvelles commandes, de visualiser l'état d'avancement des commandes en cours, et de marquer les commandes comme complètes une fois qu'elles sont traitées.
 #technologie utilisée.
 ```diff
-Langage de Programmation : + Java
-Frontend : + JSP , JSTL
-Backend : + Servlets pour le traitement des requêtes HTTP
-Base de Données :  + MySQL
-Logging : + Log4j pour la gestion des journaux
++ Langage de Programmation : Java
++ Frontend : JSP , JSTL
++ Backend : Servlets pour le traitement des requêtes HTTP
++ Base de Données : MySQL
++ Logging : Log4j pour la gestion des journaux
 ```
 
 # Fonctionnalités de l'Application "OrderCraft" (Java EE) pour la Gestion des Commandes
