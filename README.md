@@ -15,5 +15,5 @@ développer une application qui lui permette de gérer ses commandes clients. L'
 ## Gérer les commandes, vous pouvez ajouter, supprimer, modifier le statut de la commande et consulter toutes les commandes:
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/923/wcrn9P.png)
 
-## modifier le statut de la commande : 🟧INPROGRESS, 🟩DELIVRED, 🟥 - CANCELED
+## modifier le statut de la commande : 🟧`INPROGRESS`, 🟩`DELIVRED`, 🟥`CANCELED`
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/nrG4jQ.png)
