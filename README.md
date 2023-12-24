@@ -8,6 +8,9 @@ développer une application qui lui permette de gérer ses commandes clients. L'
 + Base de Données : MySQL
 + Logging : Log4j pour la gestion des journaux
 ```
+## Diagramme de classes
+![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/wDUB3X.png)
+
 
 # Fonctionnalités de l'Application "OrderCraft" (Java EE) pour la Gestion des Commandes
 
