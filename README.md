@@ -11,6 +11,8 @@ développer une application qui lui permette de gérer ses commandes clients. L'
 ## Diagramme de classes
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/wDUB3X.png)
 
+## Diagramme de cas d'utilisation
+![alt text](https://imagizer.imageshack.com/v2/1024x768q70/923/zIZOXv.png)
 
 # Fonctionnalités de l'Application "OrderCraft" (Java EE) pour la Gestion des Commandes
 
