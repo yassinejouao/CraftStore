@@ -36,3 +36,6 @@ https://github.com/yassinjouao/CraftStore/assets/44931090/93d5a5b4-822f-427d-88b
 
 ## Afficher les détails d'une commande.:
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/arUtR6.png)
+
+## Authors
+- [@yassinjouao](https://github.com/yassinjouao)
