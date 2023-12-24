@@ -1,6 +1,6 @@
 # CraftStore
 développer une application qui lui permette de gérer ses commandes clients. L'application devrait permettre d'ajouter de nouvelles commandes, de visualiser l'état d'avancement des commandes en cours, et de marquer les commandes comme complètes une fois qu'elles sont traitées.
-#technologie utilisée.
+## technologie utilisée.
 ```diff
 + Langage de Programmation : Java
 + Frontend : JSP , JSTL
@@ -12,7 +12,7 @@ développer une application qui lui permette de gérer ses commandes clients. L'
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/wDUB3X.png)
 
 ## Diagramme de cas d'utilisation
-![alt text](https://imagizer.imageshack.com/v2/1024x768q70/923/zIZOXv.png)
+![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/3HZogx.png)
 
 # Fonctionnalités de l'Application "OrderCraft" (Java EE) pour la Gestion des Commandes
 
