@@ -18,7 +18,7 @@ https://github.com/yassinjouao/CraftStore/assets/44931090/93d5a5b4-822f-427d-88b
 ## Diagramme de cas d'utilisation
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/922/3HZogx.png)
 
-# Fonctionnalités de l'Application "OrderCraft" (Java EE) pour la Gestion des Commandes
+# Fonctionnalités de l'Application "CraftStore" (Java EE) pour la Gestion des Commandes
 
 ## Gérer les produits, vous pouvez ajouter, supprimer, mettre à jour toutes les informations et consulter tous les produits :
 ![alt text](https://imagizer.imageshack.com/v2/1024x768q70/924/MELB2s.png)
