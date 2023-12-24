@@ -1,0 +1,157 @@
+java.sql.SQLSyntaxErrorException: Table 'ordercraft.client' doesn't exist
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  save product
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  get product by id
+  update product
+  search for product by keyword
+  search client by keyword
+  ADD client to database
+  get all orders
+  search client by keyword
+  search for product by keyword
+  save order
+  get product by name
+  save orders items
+  update product
+  get product by name
+  save orders items
+  update product
+  get product by name
+  save orders items
+  update product
+  update total by id
+  get all orders
+  get order items by id order
+  get all orders
+  search client by keyword
+  search for product by keyword
+  save order
+  get product by name
+  save orders items
+  update product
+  update total by id
+  get all orders
+  update status order
+  get all orders
+  delete order items by order id
+  delete order by id
+  get all orders
+  get all orders
+  update status order
+  get all orders
+  get all orders
+  search for product by keyword
+  search client by keyword
+  get all orders
+  get order items by id order
+  search client by keyword
+  search for product by keyword
+  get all orders
+  get order items by id order
+  search client by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search client by keyword
+  get all orders
+  get all orders
+  get all orders
+  get all orders
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  get all orders
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search for product by keyword
+  search client by keyword
+  get all orders
+  search for product by keyword
+  search client by keyword
+  get all orders
+  search for product by keyword
+  search for product by keyword
+  search client by keyword
+  java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails (`ordercraft`.`orders`, CONSTRAINT `orders_idclient_foreign` FOREIGN KEY (`idClient`) REFERENCES `clients` (`idClient`))
+  get all orders
+  get all orders
+  search client by keyword
+  get all orders
+  search client by keyword
+  get all orders
+  delete order items by order id
+  delete order by id
+  get all orders
+  search client by keyword
+  delete client by id
+  search client by keyword
+  ADD client to database
+  search client by keyword
+  search for product by keyword
+  search client by keyword
+  get all orders
+  search client by keyword
+  search for product by keyword
+  save order
+  get product by name
+  save orders items
+  update product
+  update total by id
+  get all orders
+  search client by keyword
+  search for product by keyword
+  save order
+  get product by name
+  save orders items
+  update product
+  get product by name
+  save orders items
+  update product
+  update total by id
+  get all orders
+  update status order
+  get all orders
+  search client by keyword
+  search for product by keyword
+  save order
+  get product by name
+  save orders items
+  update product
+  update total by id
+  get all orders
+  update status order
+  get all orders
+  update status order
+  get all orders
+  update status order
+  get all orders
+  update status order
+  get all orders
+  update status order
+  get all orders
+  get order items by id order
+  
